@@ -1,0 +1,6 @@
+[book]
+authors = ["Kevin Axel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Async OS"
