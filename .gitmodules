@@ -1,0 +1,3 @@
+[submodule "rv-n-ext-impl"]
+	path = rv-n-ext-impl
+	url = git@github.com:KveinAxel/rv-n-ext-impl.git
